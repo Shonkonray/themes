@@ -1,3 +1,5 @@
+Testing out Github
+
 # Themes directory for third party themes for EdgeTX
 
 For older, EdgeTX v2.5 compatible themes, please [go to the 2.5 branch](../../tree/2.5).
